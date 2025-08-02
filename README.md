@@ -51,6 +51,26 @@ This project is divided into three parts:
 
 ---
 
+## 📝 Handwritten Notes
+
+In addition to the code, this project includes **detailed handwritten derivations** that explain:
+
+- 📉 **The Cost Function (Mean Squared Error)**  
+  Understand how error is measured and why MSE is used.
+
+- 📐 **Gradient Descent Intuition and Derivation**  
+  Step-by-step breakdown of how gradients are computed and used to update weights.
+
+- 🧾 **Update Rules for Parameters (m and b)**  
+  Deriving the partial derivatives and update formulae.
+
+- 📐 **Batch vs Stochastic Gradient Descent**  
+  Deriving the solution using stochastic gradient descent.
+
+These notes serve as a **mathematical foundation** for what's implemented in code and help bridge the gap between theory and practice.
+
+---
+
 ## 🚀 Getting Started
 
 1. Clone this repo
